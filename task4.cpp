@@ -194,7 +194,7 @@ void updateTask() {
 int main()
 {
     system("cls");
-    system("Color E0"); // "Color XY", X - backgroung color, Y - text color
+    system("Color 0A"); // "Color XY", X - backgroung color, Y - text color
     system("title TaskManager @copyassignment");
     cout << "\t\t\t***********************************************************************" << endl;
     cout << "\t\t\t*                                                                     *" << endl;
